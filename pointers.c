@@ -28,6 +28,7 @@ int main()
     printf ("\n value of a[3] = %u", 3[a]);
     printf ("\n value of a[4] = %u", 4[a]);
 
+    //change the code below to print the addresses of all the elements of the array
     printf ("\n value of a[0] = %u", *a);
     printf ("\n value of a[1] = %u", *(1+a));
     printf ("\n value of a[2] = %u", *(2+a));
